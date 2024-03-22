@@ -1,0 +1,70 @@
+#stopButton {
+  height: 40px;
+  width: 80px;
+  background-color: #1f1d41;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+#readyButton {
+  height: 40px;
+  width: 80px;
+  background-color: #1f1d41;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+#goButton {
+  height: 40px;
+  width: 80px;
+  background-color: #1f1d41;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+#stopLight {
+  width: 45px;
+  height: 45px;
+  border-radius: 40px;
+  background-color: #4b5069;
+}
+
+#readyLight {
+  width: 45px;
+  height: 45px;
+  border-radius: 40px;
+  background-color: #4b5069;
+}
+
+#goLight {
+  width: 45px;
+  height: 45px;
+  border-radius: 40px;
+  background-color: #4b5069;
+}
+
+.card-container {
+  height: 270px;
+  width: 100px;
+  background-color: #1f1d41;
+  border-radius: 40px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left: 25px;
+}
+
+.bg-container {
+  background-color: #8de5f2;
+  text-align: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #1f1d41;
+  font-family: "roboto";
+  font-weight: bold;
+}
